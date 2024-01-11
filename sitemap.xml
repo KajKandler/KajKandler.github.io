@@ -5,6 +5,6 @@
     http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 >
-    <url><loc>https://example.com/</loc></url>
-    <url><loc>https://example.com/documentation/</loc></url>
+    <url><loc>https://kajkandler.github.io/documentation/</loc><lastmod>2024-01-10T15:52:13+02:00</lastmod></url>
+    <url><loc>https://kajkandler.github.io/</loc></url>
 </urlset>
